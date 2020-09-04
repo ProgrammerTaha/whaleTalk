@@ -20,9 +20,11 @@ const vowels = ['A', 'E', 'I', 'O', 'U'];
 let resultArray = [];
 
 //loop to iterate through each letter of the input
-for (let i = 0; i < input.length; i++) {
-  for (let j = 0; j < vowels.length; j++) {
-    ;
+for (let i = 0; i < vowels.length; i++) {
+  for (let j = 0; j < input.length; j++) {
+    if (vowels[i] === input[j]) {
+      ;
+    }
   }
 }
 
