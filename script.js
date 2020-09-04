@@ -9,3 +9,6 @@ todo: Take a phrase and translate it into its “whale talk” equivalent
 
 */
 
+//text you want to translate into “whale talk”
+const input= '';
+
