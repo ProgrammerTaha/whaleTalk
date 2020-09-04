@@ -15,3 +15,6 @@ const input= '';
 //array of vowels
 const vowels = ['a','e','i','o','u'];
 
+//to store the vowels from the input string
+let resultArray = [];
+
